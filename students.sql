@@ -16,7 +16,7 @@ INSERT INTO students (
     smoker,
     drinks_alcohol_weekly
 ) VALUES
-('Bohyra', 'Davyd', 2, 'IT', FALSE, NULL),
+('Bohyra', 'Davyd', 2, 'IT', FALSE, TRUE),
 ('Drzazga', 'Kalor', NULL, 'PR', FALSE, NULL),
 ('Franz', 'Filip', 2, 'IT', TRUE, NULL),
 ('Ineierskyi', 'Nazar', NULL, 'PR', FALSE, NULL),
